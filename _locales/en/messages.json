@@ -1,0 +1,11 @@
+{
+	"extName": {
+		"message" : "Twitter Font Fix"
+		,"description" : "Extension name."
+	}
+	
+	,"extDescription": {
+		"message"  : "Makes the font size same for all tweets on the new Twitter profile pages."
+		,"description" : "Extension description."
+	}
+}

@@ -3,3 +3,9 @@
     font-weight: 400 !important;
     line-height: 22px !important;
 }
+
+.TweetTextSize.TweetTextSize--26px {
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    line-height: 22px !important;
+}
